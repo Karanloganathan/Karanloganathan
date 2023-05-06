@@ -12,7 +12,7 @@
 - 📘 I’m currently learning Reactjs and chrome dev tools.  
   
 
-- 😀I enjoy [specific hobby or activity], and it helps me stay creative and focused.  
+- 😀I enjoy coding, and it helps me stay creative and focused.  
   
 
 <br/>  
@@ -65,18 +65,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center"></div>
 <br />
