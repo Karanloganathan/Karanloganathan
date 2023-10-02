@@ -9,7 +9,7 @@
 -  🖥️I’m currently working on Frontend development skills.  
   
 
-- 📘 I’m currently learning Reactjs and chrome dev tools.  
+- 📘 I’m currently learning js and chrome dev tools.  
   
 
 - 😀I enjoy coding, and it helps me stay creative and focused.  
